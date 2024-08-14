@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  fireStudy
+
+  Created by Alexandra on 13.08.2024.
+  
+*/
+
+
+"endOfList" = "Its all for now 😸";
+
+
+
+
+"signInAnon" = "Sign in anonymously";
+"signInEmail" = "Sign in with Email";
+"signIn" = "Sign In";
+
+"create" = "Create";
+"favorite" = "Favorite";
+"profile" = "Profile";
+
+
+"enterName" = "Enter your name";
+"selectDate" = "Select your birthday";
+"enterSurname" = "Enter your surname";
+"save" = "Save";
+"editInfo" = "Edit Info";
+
+
+"selectImg" = "Select a photo";
+"deleteImg" = "Delete a photo";
+
+
+"logOut" = "Log Out";
+"deleteAcc" = "Delete Accaunt";
+"settings" = "Settings";
+"linkGoogle" = "Link Google Account";
+"linkApple" = "Link Apple Account";
+"linkEmail" = "Link Email Account";
